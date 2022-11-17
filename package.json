@@ -1,0 +1,19 @@
+{
+  "name": "learning-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoshanSharma20/Learning-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoshanSharma20/Learning-JavaScript/issues"
+  },
+  "homepage": "https://github.com/RoshanSharma20/Learning-JavaScript#readme"
+}
