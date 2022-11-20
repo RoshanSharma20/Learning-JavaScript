@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: grid;
+    place-content: center;
+}
+
+#green {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    display: grid;
+    place-content: center;
+}
+
+#yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    display: grid;
+    place-content: center;
+}
+
+.boxes {
+    padding-top: 10rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-evenly;
+}
